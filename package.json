@@ -1,0 +1,42 @@
+{
+  "name": "jackhammer-syntax",
+  "displayName": "Jackhammer Syntax",
+  "description": "Dark and bright syntax theme for VS Code",
+  "version": "1.0.0",
+  "publisher": "voidpls",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voidpls/jackhammer-syntax-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/voidpls/jackhammer-syntax-vscode/issues"
+  },
+  "homepage": "https://github.com/voidpls/jackhammer-syntax-vscode",
+  "keywords": [
+    "theme",
+    "syntax",
+    "dark",
+    "jackhammer",
+    "color-theme"
+  ],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Jackhammer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jackhammer-color-theme.json"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#1D212E",
+    "theme": "dark"
+  }
+}
