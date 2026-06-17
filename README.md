@@ -2,6 +2,9 @@
 
 A dark syntax theme with muted pastel accents on a near-black navy background. Ported from the original [Atom theme](https://github.com/muukii/jackhammer-syntax) by [muukii](https://github.com/muukii).
 
+<img width="1464" height="816" alt="image" src="https://github.com/user-attachments/assets/04f8f41f-39e4-4ff2-8b52-9bed0a5257b8" />
+
+
 ## Installation
 
 ### From the Marketplace
