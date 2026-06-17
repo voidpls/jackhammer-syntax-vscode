@@ -2,7 +2,7 @@
   "name": "jackhammer-syntax",
   "displayName": "Jackhammer Syntax",
   "description": "Dark and bright syntax theme for VS Code",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "voidpls",
   "license": "MIT",
   "repository": {
@@ -32,6 +32,11 @@
         "label": "Jackhammer",
         "uiTheme": "vs-dark",
         "path": "./themes/Jackhammer-color-theme.json"
+      },
+      {
+        "label": "Jackhammer Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Jackhammer-Dark-color-theme.json"
       }
     ]
   },

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0
+
+- Added **Jackhammer Dark** variant with deeper background (`#141821`)
+
 ## 1.0.0
 
 - Initial VS Code release
