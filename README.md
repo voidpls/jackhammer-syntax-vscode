@@ -2,19 +2,19 @@
 
 A dark syntax theme with muted pastel accents on a near-black navy background. Ported from the original [Atom theme](https://github.com/muukii/jackhammer-syntax) by [muukii](https://github.com/muukii).
 
-Two variants included:
+Three variants included:
 
 | Variant | Background |
 |---------|-----------|
-| **Jackhammer** | `#1D212E` (default) |
-| **Jackhammer Dark** | `#141821` (deeper) |
+| **Jackhammer** | `#1D212E` (default, navy) |
+| **Jackhammer Dark** | `#141821` (deeper navy) |
+| **Jackhammer Mono** | `#121212` (neutral gray) |
 
 **Jackhammer**
 <img width="1467" height="798" alt="image" src="https://github.com/user-attachments/assets/62502125-0d9c-41bd-917d-621e761d4a81" />
 
 **Jackhammer Dark**
 <img width="1464" height="799" alt="image" src="https://github.com/user-attachments/assets/59e898e5-7eca-4713-8239-371d750592df" />
-
 
 ## Installation
 
@@ -26,7 +26,7 @@ Two variants included:
 
 ### Manual Install
 1. Download the `.vsix` file from [Releases](https://github.com/voidpls/jackhammer-syntax-vscode/releases)
-2. Run `code --install-extension jackhammer-syntax-1.1.0.vsix`
+2. Run `code --install-extension jackhammer-syntax-1.2.0.vsix`
 
 ## Palette
 
@@ -62,7 +62,7 @@ The theme includes token colors for:
 npx @vscode/vsce package
 
 # Install locally
-code --install-extension jackhammer-syntax-1.1.0.vsix
+code --install-extension jackhammer-syntax-1.2.0.vsix
 ```
 
 ## Credits

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.2.0
+
+- Added **Jackhammer Mono** — neutral gray chrome (`#121212`) with syntax accents dimmed −8% OKLCH lightness from the original palette
+
 ## 1.1.0
 
 - Added **Jackhammer Dark** variant with deeper background (`#141821`)
